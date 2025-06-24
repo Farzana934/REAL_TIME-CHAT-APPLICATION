@@ -26,3 +26,7 @@ The app is especially useful for demonstrating how React can be used in a minima
 While the current implementation doesn’t support real-time chat with other users or data persistence, it sets a foundation that can easily be extended. Features like WebSocket integration for real-time communication, localStorage for saving messages between sessions, or even external APIs for sending and receiving messages can be added with little structural change.
 
 In summary, this project demonstrates how a simple and functional chat interface can be built using just React, plain HTML, and CSS without the need for complex setups. It serves as a good starting point for learning component-based design, state management, and user input handling in React.
+
+
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/01290186-a353-4586-a2f1-828287da1ba3)
