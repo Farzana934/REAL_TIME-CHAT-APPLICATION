@@ -29,4 +29,4 @@ In summary, this project demonstrates how a simple and functional chat interface
 
 
 *OUTPUT*:
-![Image](https://github.com/user-attachments/assets/01290186-a353-4586-a2f1-828287da1ba3)
+![Image](https://github.com/user-attachments/assets/f2093297-3028-493c-8b0a-b7e9a49ddc78)
